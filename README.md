@@ -1,6 +1,6 @@
 # Web3.0
 ### Crypto trading web app, where you can easily send your crypto to anywhere in the world.
-- Connect a regular ReactJS application to the blockchain and pair it to your Ethereum wallet using `MetaMask`
+- Connect a regular `React.js` application to the blockchain and pair it to your Ethereum wallet using `MetaMask`
 - Wrote smart contracts on the Ethereum network using the `Solidity` programming language
 - Allow users to send transactions through the blockchain
 
