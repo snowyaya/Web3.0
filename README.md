@@ -9,11 +9,11 @@
 - Smart Contract
 
 ## Project Structure
-``
+```
 |   # client files
 |__ client
 |   # Smart Contract
 |__ smart_contract
-``
+```
 
 ![web3.0-homepage](/client/images/web3.0-homepage.png)
